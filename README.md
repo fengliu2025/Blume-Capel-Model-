@@ -1,0 +1,1 @@
+# Blume-Capel-Model-

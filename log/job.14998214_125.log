@@ -1,0 +1,437 @@
+000 (14998214.125.000) 2025-12-02 23:07:12 Job submitted from host: <130.199.48.129:9618?addrs=130.199.48.129-9618&alias=rcas6009.rcf.bnl.gov&noUDP&sock=schedd_22421_101d>
+...
+040 (14998214.125.000) 2025-12-02 23:14:39 Started transferring input files
+	Transferring to host: <130.199.150.68:9618?addrs=130.199.150.68-9618&alias=spool1549.sdcc.bnl.gov&noUDP&sock=slot1_78_55458_cf75_49016>
+...
+040 (14998214.125.000) 2025-12-02 23:14:40 Finished transferring input files
+...
+001 (14998214.125.000) 2025-12-02 23:14:41 Job executing on host: <130.199.150.68:9618?addrs=130.199.150.68-9618&alias=spool1549.sdcc.bnl.gov&noUDP&sock=startd_55447_6001>
+...
+006 (14998214.125.000) 2025-12-02 23:14:50 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	380  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-02 23:19:50 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	388  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-02 23:24:50 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	400  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-02 23:29:51 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	408  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-02 23:34:52 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	420  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-02 23:39:52 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	428  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-02 23:44:53 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	432  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-02 23:49:54 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	444  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-02 23:54:54 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	452  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-02 23:59:54 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	464  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 00:14:55 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	472  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 00:19:56 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	476  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 00:24:56 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	484  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 00:29:56 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	488  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 00:34:57 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	500  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 00:39:58 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	508  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 00:44:58 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	516  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 00:49:59 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	520  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 01:00:00 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	528  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 01:10:01 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	536  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 01:20:49 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	544  -  ResidentSetSize of job (KB)
+...
+022 (14998214.125.000) 2025-12-03 01:20:49 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_78@spool1549.sdcc.bnl.gov <130.199.150.68:9618?addrs=130.199.150.68-9618&alias=spool1549.sdcc.bnl.gov&noUDP&sock=startd_55447_6001>
+...
+023 (14998214.125.000) 2025-12-03 01:20:49 Job reconnected to slot1_78@spool1549.sdcc.bnl.gov
+    startd address: <130.199.150.68:9618?addrs=130.199.150.68-9618&alias=spool1549.sdcc.bnl.gov&noUDP&sock=startd_55447_6001>
+    starter address: <130.199.150.68:9618?addrs=130.199.150.68-9618&alias=spool1549.sdcc.bnl.gov&noUDP&sock=slot1_78_55458_cf75_49016>
+...
+006 (14998214.125.000) 2025-12-03 01:38:12 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	576  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 01:52:07 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	600  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 02:00:28 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	616  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 02:05:29 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	624  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 02:25:31 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	628  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 02:30:31 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	636  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 02:35:32 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	644  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 02:40:33 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	652  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 02:45:33 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	660  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 02:50:34 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	672  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 02:55:35 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	680  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 03:00:35 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	684  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 03:05:35 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	696  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 03:10:36 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	704  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 03:15:36 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	716  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 03:20:36 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	724  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 03:25:37 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	732  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 03:30:38 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	740  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 03:35:38 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	748  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 03:40:39 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	760  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 03:45:40 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	768  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 03:50:40 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	776  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 03:55:41 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	788  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 04:00:42 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	792  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 04:05:42 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	804  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 04:10:43 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	812  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 04:15:44 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	820  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 04:20:44 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	828  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 04:25:44 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	832  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 04:30:45 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	844  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 04:35:45 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	852  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 04:40:45 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	856  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 04:45:46 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	868  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 04:50:46 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	876  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 04:55:46 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	888  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 05:00:47 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	896  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 05:05:48 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	900  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 05:10:48 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	912  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 05:15:49 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	920  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 05:20:50 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	932  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 05:25:50 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	936  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 05:30:50 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	940  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 05:35:51 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	952  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 05:40:51 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	960  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 05:45:51 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	972  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 05:50:52 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	980  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 05:55:53 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	992  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 06:00:53 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	996  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 06:05:54 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	1004  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 06:10:55 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	1016  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 06:15:55 Image size of job updated: 51036
+	1  -  MemoryUsage of job (MB)
+	1024  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 06:20:56 Image size of job updated: 51036
+	2  -  MemoryUsage of job (MB)
+	1036  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 06:25:57 Image size of job updated: 51036
+	2  -  MemoryUsage of job (MB)
+	1044  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 06:30:57 Image size of job updated: 51036
+	2  -  MemoryUsage of job (MB)
+	1052  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 06:35:57 Image size of job updated: 51036
+	2  -  MemoryUsage of job (MB)
+	1060  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 06:40:58 Image size of job updated: 51036
+	2  -  MemoryUsage of job (MB)
+	1068  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 06:45:58 Image size of job updated: 51036
+	2  -  MemoryUsage of job (MB)
+	1080  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 06:50:58 Image size of job updated: 51036
+	2  -  MemoryUsage of job (MB)
+	1088  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 06:55:59 Image size of job updated: 51036
+	2  -  MemoryUsage of job (MB)
+	1092  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 07:01:00 Image size of job updated: 51036
+	2  -  MemoryUsage of job (MB)
+	1104  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 07:06:00 Image size of job updated: 51036
+	2  -  MemoryUsage of job (MB)
+	1112  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 07:11:01 Image size of job updated: 51036
+	2  -  MemoryUsage of job (MB)
+	1124  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 07:26:02 Image size of job updated: 51036
+	2  -  MemoryUsage of job (MB)
+	1132  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 07:31:03 Image size of job updated: 51036
+	2  -  MemoryUsage of job (MB)
+	1140  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 07:36:03 Image size of job updated: 51036
+	2  -  MemoryUsage of job (MB)
+	1152  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 07:41:03 Image size of job updated: 51036
+	2  -  MemoryUsage of job (MB)
+	1160  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 07:46:04 Image size of job updated: 51036
+	2  -  MemoryUsage of job (MB)
+	1168  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 07:51:05 Image size of job updated: 51036
+	2  -  MemoryUsage of job (MB)
+	1172  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 07:56:05 Image size of job updated: 51036
+	2  -  MemoryUsage of job (MB)
+	1180  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 08:01:06 Image size of job updated: 51036
+	2  -  MemoryUsage of job (MB)
+	1192  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 08:06:06 Image size of job updated: 51036
+	2  -  MemoryUsage of job (MB)
+	1200  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 08:11:06 Image size of job updated: 51036
+	2  -  MemoryUsage of job (MB)
+	1208  -  ResidentSetSize of job (KB)
+...
+006 (14998214.125.000) 2025-12-03 08:16:07 Image size of job updated: 51036
+	2  -  MemoryUsage of job (MB)
+	1220  -  ResidentSetSize of job (KB)
+...
+022 (14998214.125.000) 2025-12-03 08:27:00 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_78@spool1549.sdcc.bnl.gov <130.199.150.68:9618?addrs=130.199.150.68-9618&alias=spool1549.sdcc.bnl.gov&noUDP&sock=startd_55447_6001>
+...
+023 (14998214.125.000) 2025-12-03 08:27:00 Job reconnected to slot1_78@spool1549.sdcc.bnl.gov
+    startd address: <130.199.150.68:9618?addrs=130.199.150.68-9618&alias=spool1549.sdcc.bnl.gov&noUDP&sock=startd_55447_6001>
+    starter address: <130.199.150.68:9618?addrs=130.199.150.68-9618&alias=spool1549.sdcc.bnl.gov&noUDP&sock=slot1_78_55458_cf75_49016>
+...
+022 (14998214.125.000) 2025-12-03 08:27:05 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_78@spool1549.sdcc.bnl.gov <130.199.150.68:9618?addrs=130.199.150.68-9618&alias=spool1549.sdcc.bnl.gov&noUDP&sock=startd_55447_6001>
+...
+023 (14998214.125.000) 2025-12-03 08:27:05 Job reconnected to slot1_78@spool1549.sdcc.bnl.gov
+    startd address: <130.199.150.68:9618?addrs=130.199.150.68-9618&alias=spool1549.sdcc.bnl.gov&noUDP&sock=startd_55447_6001>
+    starter address: <130.199.150.68:9618?addrs=130.199.150.68-9618&alias=spool1549.sdcc.bnl.gov&noUDP&sock=slot1_78_55458_cf75_49016>
+...
+022 (14998214.125.000) 2025-12-03 08:27:10 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_78@spool1549.sdcc.bnl.gov <130.199.150.68:9618?addrs=130.199.150.68-9618&alias=spool1549.sdcc.bnl.gov&noUDP&sock=startd_55447_6001>
+...
+023 (14998214.125.000) 2025-12-03 08:27:10 Job reconnected to slot1_78@spool1549.sdcc.bnl.gov
+    startd address: <130.199.150.68:9618?addrs=130.199.150.68-9618&alias=spool1549.sdcc.bnl.gov&noUDP&sock=startd_55447_6001>
+    starter address: <130.199.150.68:9618?addrs=130.199.150.68-9618&alias=spool1549.sdcc.bnl.gov&noUDP&sock=slot1_78_55458_cf75_49016>
+...
+022 (14998214.125.000) 2025-12-03 08:27:15 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_78@spool1549.sdcc.bnl.gov <130.199.150.68:9618?addrs=130.199.150.68-9618&alias=spool1549.sdcc.bnl.gov&noUDP&sock=startd_55447_6001>
+...
+023 (14998214.125.000) 2025-12-03 08:27:15 Job reconnected to slot1_78@spool1549.sdcc.bnl.gov
+    startd address: <130.199.150.68:9618?addrs=130.199.150.68-9618&alias=spool1549.sdcc.bnl.gov&noUDP&sock=startd_55447_6001>
+    starter address: <130.199.150.68:9618?addrs=130.199.150.68-9618&alias=spool1549.sdcc.bnl.gov&noUDP&sock=slot1_78_55458_cf75_49016>
+...
+007 (14998214.125.000) 2025-12-03 08:27:20 Shadow exception!
+	Error from slot1_78@spool1549.sdcc.bnl.gov: Repeated attempts to transfer output failed for unknown reasons
+	0  -  Run Bytes Sent By Job
+	218643  -  Run Bytes Received By Job
+...
+040 (14998214.125.000) 2025-12-03 08:51:06 Started transferring input files
+	Transferring to host: <130.199.150.79:9618?addrs=130.199.150.79-9618&alias=spool1560.sdcc.bnl.gov&noUDP&sock=slot1_84_96765_c7fe_58354>
+...
+040 (14998214.125.000) 2025-12-03 08:51:12 Finished transferring input files
+...
+001 (14998214.125.000) 2025-12-03 08:51:13 Job executing on host: <130.199.150.79:9618?addrs=130.199.150.79-9618&alias=spool1560.sdcc.bnl.gov&noUDP&sock=startd_96756_26eb>
+...

@@ -1,0 +1,18 @@
+# array_job.sub
+universe    = vanilla
+executable  = /gpfs01/star/pwg/fliu/Event_Generator/jam2/jam2/run.sh
+arguments   = $(Process)
+
+output      = output/job.$(Cluster)_$(Process).out
+error       = error/job.$(Cluster)_$(Process).err
+log         = log/job.$(Cluster)_$(Process).log
+
+request_cpus   = 1
+request_memory = 4GB
+request_disk   = 2GB
+
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+transfer_input_files = /gpfs01/star/pwg/fliu/Event_Generator/jam2/jam2/
+queue 1000
+~           
